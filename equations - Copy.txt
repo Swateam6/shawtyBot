@@ -1,0 +1,10 @@
+"width" = 6in 'side to side 6
+"height"= 1.25in'top to bottom from 1.25
+"length"=6.25in 'back to front 6.25
+"side_width"= 1in
+"wheel_di"=1.875in'2.375
+"wepon_di" = 1.25in ' milled rectangle must compensate for bolts ~ - .5 1.5
+"wepon_axle" = 0.1in ' placement from front .5
+"frame_bolts" = 0.125
+"wheel_base"= 2.5in
+"cheesing" = .25in ' width of general trusses
